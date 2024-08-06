@@ -1,4 +1,4 @@
-# QuestKit5.8.6752
+# QuestPackage5.8.6752
 Custom version of Quest and Quest JS system for creating text adventures, and website conversion.
 Quest 5.8.6752 was edited by KVonGit, and Raist.
 QuestJS was edited by KVonGit, and Raist to convert Quest 5.8.6752 into an HTML file.
